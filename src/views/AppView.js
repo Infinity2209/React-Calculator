@@ -275,7 +275,7 @@ class AppView extends React.Component {
                     <div className="col-md-5">
 
                         <div className="app-header">
-                            <span className="app-title">AJ</span> Calculator
+                            <span className="app-title">Infinity</span> Calculator
                             <span className="badge badge-warning">React <small>js</small></span>
                         </div>
 
@@ -355,7 +355,7 @@ class AppView extends React.Component {
                         </div>
 
                         <p className="copy-right text-right">
-                            &copy; 2020, <a href="https://github.com/ManiruzzamanAkash" target="_blank">Maniruzzaman Akash </a>
+                            &copy; 2020, <a href="https://github.com/Infinity2209" target="_blank">Ananta Nag</a>
                         </p>
                     </div>
                 </div>
